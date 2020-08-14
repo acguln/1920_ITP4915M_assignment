@@ -1,5 +1,5 @@
 # 1920_ITP4915M_assignment
-Copyright @ ©Acguln, Ken Lo 2020. Any reproduction or illegal distribution of the content in any form will result in immediate action against the person concerned.
+Copyright @ ©acguln, Ken Lo 2020. Any reproduction or illegal distribution of the content in any form will result in immediate action against the person concerned.
 
 -This is for teaching purposes.
 
