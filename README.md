@@ -1,6 +1,8 @@
 # 1920_ITP4915M_assignment
 -This is for teaching purposes.
 
+🤩🤩Please rember remove Connection String before first time compile.
+
 *Fair Use
 
 Copyright Disclaimer under section 107 of the Copyright Act of 1976, allowance is made for “fair use” for purposes such as criticism, comment, news reporting, teaching, scholarship, education and research.
